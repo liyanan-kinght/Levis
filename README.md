@@ -14,7 +14,7 @@ This demo *runs&&compile* on a *raspberry pi 4B+*. This demo can be used for pho
 
 **Note:**
 
-0. This program uses the python2.7 environment
+0. This program uses the python2.7 environment. But if you want to use python3 for your own programme, you could install python3 by yourself on RPI.
 1. The system image version we use is 2020-02-13-raspbian-buster-lite.
 2. Raspberry login name: pi
 3. Raspberry password: raspberry
